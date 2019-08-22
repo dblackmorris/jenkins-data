@@ -1,0 +1,8 @@
+Started by user [8mha:////4MNWCvJFMmHKWvQ6Ic0p4mt2Y7nuMa8zagU0LqwXqDbHAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9lMS8klQA5Hyv/cAAAAA=[0mMak Dante
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins4817955198144013219.sh
++ NAME=Dante
++ date
++ echo Hello Dante, Date and Time is Tue Aug 20 05:12:22 UTC 2019
+Finished: SUCCESS

@@ -1,0 +1,7 @@
+Started by user [8mha:////4MNWCvJFMmHKWvQ6Ic0p4mt2Y7nuMa8zagU0LqwXqDbHAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9lMS8klQA5Hyv/cAAAAA=[0mMak Dante
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins8948301055096210134.sh
++ echo Hello MAK DANTE
+Hello MAK DANTE
+Finished: SUCCESS
