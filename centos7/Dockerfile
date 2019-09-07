@@ -1,0 +1,13 @@
+FROM centos
+RUN yum install -y openssh-server
+RUN useradd remote_user && \
+  echo "1234" | passwd remote_user --stdin && \
+  mkdir /home/remote_user/.ssh && \
+  chmod 700 /home/remote_user/.ssh
+
+RUN /usr/sbin/sshd-keygen
+RUN yum -y install mysql
+RUN curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py && \
+    python get-pip.py && \
+    pip install awscli --upgrade
+CMD /usr/sbin/sshd -D
